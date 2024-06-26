@@ -1,0 +1,19 @@
+created_by: dheeraj_arremsetty
+domain: Insurance
+seed_examples:
+- answer: The policyholder's name, age, gender, marital status, occupation, annual income, credit score, address, contact information need to be accurate and up-to-date.
+  question: What information needs to be accurate and up-to-date for the policyholder?
+- answer: The target is 100% accuracy in policyholder details verification.
+  question:  What is the target for policyholder details verification?
+- answer: The requirement is to assess the legitimacy of the claim based on the provided information and documentation.
+  question: What is the requirement for evaluating a claim?
+- answer: The procedure involves considering the details of the incident, the policyholder’s claim history, and any red flags or inconsistencies that may indicate fraud or ineligibility.
+  question: What is the procedure for evaluating a claim?
+- answer: The requirement is to assess the legitimacy of the claim based on the provided information and documentation.
+  question: What is the requirement for evaluating a claim?
+task_description: 'Details on instructlab community project'
+document:
+  repo: https://github.com/Dheeraj-Arremsetty/Insurance-underwriter.git
+  commit: 81feb8a24007edfa4fd3c541583575ef4b0c261b
+  patterns:
+    - data.md
